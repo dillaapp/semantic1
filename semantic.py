@@ -59,6 +59,6 @@ not typically eat carrots. """
 # 'en_core_web_md
 """When running the example file with en_core_web_sm, the following difference occurred
 - the similarity scores between words, phrases, and sentences may be slightly 
-different.
-- the number of entities identified by the model vary. 
+different(less accurate).
+- the number of entities identified by the model vary (less entities identified). 
  """
